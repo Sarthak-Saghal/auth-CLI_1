@@ -1,4 +1,4 @@
-# 🔐 React Authentication App
+# 🔐 React Authentication 
 
 A modern React authentication application featuring **Login, Signup, and Forgot Password flows**, built using **React Router DOM**, **Framer Motion**, and **React Icons**.
 
