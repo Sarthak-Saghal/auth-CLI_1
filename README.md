@@ -18,6 +18,7 @@ A modern React authentication application featuring **Login, Signup, and Forgot 
 
 ## 🛠 Tech Stack
 
+
 - React
 - React Router DOM
 - Framer Motion
