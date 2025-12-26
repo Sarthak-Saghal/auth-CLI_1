@@ -3,6 +3,10 @@
 A modern React authentication application featuring **Login, Signup, and Forgot Password flows**, built using **React Router DOM**, **Framer Motion**, and **React Icons**.
 
 ---
+# Glassmorphism_Login_UI
+
+A**glassmorphism login UI featuring frosted-glass effects, subtle blur, and a sleek modern design for an elegant authentication experience.**
+
 
 ## 📦 Dependencies Installation (Required)
 
