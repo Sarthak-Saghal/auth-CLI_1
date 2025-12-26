@@ -60,13 +60,13 @@ The application routing is defined as follows:
 ```jsx
 <Routes>
   {/* Root login route */}
-  {/* <Route path="/" element={<Login />} /> */}
+   <Route path="/" element={<Login />} /> 
 
   {/* User signup route */}
- {/* <Route path="/signup" element={<Signup />} /> */}
+  <Route path="/signup" element={<Signup />} /> 
 
   {/* Forgot password route */}
-  {/* <Route path="/forgot" element={<ForgotPassword />} /> */}
+   <Route path="/forgot" element={<ForgotPassword />} /> 
 </Routes>
 
 ```
